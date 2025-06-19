@@ -12,11 +12,14 @@ body {
 }
 
 .mainbox-footer {
-
     margin-bottom: 0;
     font-size: 25px;
     margin-top: 35px;
     color: rgb(206, 184, 141);
+}
+
+.mainbox-link:hover {
+    color: rgb(88, 86, 86);
 }
 
 .mainbox {
