@@ -27,3 +27,13 @@ body {
     margin-left: 200px;
     
 }
+
+ @media (max-width: 767px) {
+    .mainbox {
+      width: 90%;
+      margin-left: 0px;
+    }
+    .mainbox-txt {
+        font-size: 30px;
+    }
+}
